@@ -2,7 +2,7 @@
 
  
 
-<p align="center"><img width="450" height="450" alt="angel_icon" src="https://file.garden/aPthuU9PkXWKuLKJ/angel_mini_guy_aricoolcat.png" />
+<p align="center"><img width="350" height="350" alt="angel_icon" src="https://file.garden/aPthuU9PkXWKuLKJ/angel_mini_guy_aricoolcat.png" />
 
   <p align="center">[*rentry*](https://rentry.co/sin0fsloth)
 
