@@ -7,6 +7,6 @@
   <p align="center">[rentry](https://rentry.co/sin0fsloth)
   
 
-<img width="640" height="65" alt="IMG_3044" src="https://github.com/user-attachments/assets/59a52e4a-29a1-4cc8-acfd-b7cf172ef9ed" />
+<p align="center"><img width="640" height="65" alt="IMG_3044" src="https://github.com/user-attachments/assets/59a52e4a-29a1-4cc8-acfd-b7cf172ef9ed" />
 
 
