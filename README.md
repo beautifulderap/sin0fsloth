@@ -2,7 +2,7 @@
 
  
 
-<p align="center"><img width="450" height="450" alt="angel_icon" src="https://github.com/user-attachments/assets/e5eabeae-0396-4769-924e-8a84f1e1f50f" />
+<p align="center"><img width="450" height="450" alt="angel_icon" src="https://file.garden/aPthuU9PkXWKuLKJ/angel_mini_guy_aricoolcat.png" />
 
   <p align="center">[*rentry*](https://rentry.co/sin0fsloth)
 
