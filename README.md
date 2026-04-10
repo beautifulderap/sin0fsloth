@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><img width="300" height="300" alt="angel_icon" src="https://github.com/user-attachments/assets/e5eabeae-0396-4769-924e-8a84f1e1f50f" />
+<p align="center"><img width="500" height="500" alt="angel_icon" src="https://github.com/user-attachments/assets/e5eabeae-0396-4769-924e-8a84f1e1f50f" />
 
   <p align="center">[rentry](https://rentry.co/sin0fsloth)
   
